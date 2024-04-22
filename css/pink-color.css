@@ -1,0 +1,121 @@
+/*****************************************************************************
+  ____                                  _____ _
+ / ___|___  ___ _ __ ___   ___  ___    |_   _| |__   ___ _ __ ___   ___  ___
+| |   / _ \/ __| '_ ` _ \ / _ \/ __|_____| | | '_ \ / _ \ '_ ` _ \ / _ \/ __|
+| |__| (_) \__ \ | | | | | (_) \__ \_____| | | | | |  __/ | | | | |  __/\__ \
+ \____\___/|___/_| |_| |_|\___/|___/     |_| |_| |_|\___|_| |_| |_|\___||___/
+
+******************************************************************************/
+
+/************ Blue Color Css **************************************
+
+    Template Name: Watson - Resume/Vcard Template
+    Author: cosmos-themes
+    Envato Profile: https://themeforest.net/user/cosmos-themes
+    version: 1.0
+    Copyright: 2018
+
+****************************************************************/
+
+.header-main .image-container .header-name:before {
+    background-color: #DABBED;
+}
+
+.page-heading h2 {
+    color: #DABBED;
+}
+
+.page-heading .icon {
+    color: #DABBED;
+}
+
+.subheading h3 {
+    border-color: #DABBED !important;
+}
+
+.subheading h3:before,
+.subheading h3:after {
+    background-color: #DABBED;
+}
+
+.banner-section h1 span {
+    color: #DABBED;
+}
+
+.banner-section p .cd-words-wrapper b {
+    border-color: #DABBED !important;
+}
+
+.about-info ul li span.title {
+    border-color: #DABBED !important;
+}
+
+.btn-main {
+    border-color: #DABBED !important;
+    color: #DABBED;
+}
+
+.btn-main:after {
+    background-color: #DABBED;
+}
+
+.services .service-item .icon {
+    color: #DABBED !important;
+}
+
+.testimonial-item .testimonial-content:before {
+    color: #DABBED !important;
+}
+
+ul.experience li span.line-left,
+ul.education li span.line-left {
+    background-color: #DABBED !important;
+}
+
+ul.experience li span.line-left:before,
+ul.experience li span.line-left:after,
+ul.education li span.line-left:before,
+ul.education li span.line-left:after {
+    border-color: #DABBED !important;
+}
+
+ul.experience .content h5,
+ul.education .content h5 {
+    color: #DABBED;
+}
+
+.progress .progress-bar {
+    background-color: #DABBED;
+}
+
+.progress .progress-bar:after {
+    border-bottom-color: #0089bd;
+}
+
+.portfolio-section .portfolio-filter ul li.active {
+    background-color: #DABBED;
+}
+
+.portfolio-section .item figure:before {
+    background-color: #DABBED;
+}
+
+.ajax-portfolio-popup .information span.title {
+    color: #DABBED;
+}
+
+.blog-section .blog-item .blog-content .cat {
+    color: #DABBED;
+}
+
+.contact-info .info-item .icon {
+    color: #DABBED;
+}
+
+blockquote {
+    border-color: #DABBED !important;
+}
+
+.blog-page .blog-heading .cat {
+    color: #DABBED;
+}
